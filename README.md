@@ -2,7 +2,7 @@
 
 Simpel opgave i at finde og vise information om adresser i Danmark via [DAWA](https://dawadocs.dataforsyningen.dk/dok/faq).
 
-Her er et par eksempler på brug gennem mit forslag til en C# løsning - det burde være selforklarende.
+Her er et par eksempler på brug gennem mit forslag til en C# løsning - det burde være selvforklarende.
 
 ```bash
 Find adresser
