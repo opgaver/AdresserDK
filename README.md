@@ -101,4 +101,8 @@ Se eventuelt min [løsning i C#](solution/mcronberg/cs/) som inspiration.
 - Du bør skabe en løsning som er nem at teste og udvide - eksempelvis en solution med flere projekter - Adresse.Kerne og Adresse.ConsoleApp. Så er det nemt at benytte Adresse.Kerne i en anden applikation - eksempelvis en webapplikation eller en WPF applikation.
 - Du bør tilføje [Meziantou.Analyzer](https://mcronberg.github.io/bogenomcsharp/level3/kodeanalyse.html#meziantouanalyzer) til dit projekt for at få en masse gode hints og tips til at skrive bedre kode - og måske også [AsyncFixer](https://mcronberg.github.io/bogenomcsharp/level3/kodeanalyse.html#asyncfixer) for at få hjælp til at skrive bedre asynkron kode.
 
-Du er velkommen til at skabe en PR med din løsning, hvis du vil dele den. Du skal bare sørge for, at den ligger i Solution-mappen i en folder med dit navn.
+Du er velkommen til at [skabe en PR](https://github.com/opgaver) med din løsning, hvis du vil dele den. Du skal bare sørge for, at den ligger i Solution-mappen i en folder med dit navn.
+
+## Spørgsmål
+
+Ved eventuelle spørgsmål eller kommentarer kan du bruge dette repo: https://github.com/opgaver/.github/discussions (overordnet for alle opgaver).
